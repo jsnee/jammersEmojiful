@@ -1,0 +1,492 @@
+- location: assets/jammers/aaa.gif
+  name: aaa
+  strings:
+  - ':aaa:'
+- location: assets/jammers/aview.png
+  name: aview
+  strings:
+  - ':aview:'
+- location: assets/jammers/aviewacreep.png
+  name: aviewacreep
+  strings:
+  - ':aviewacreep:'
+- location: assets/jammers/biggs.png
+  name: biggs
+  strings:
+  - ':biggs:'
+- location: assets/jammers/blushhat.png
+  name: blushhat
+  strings:
+  - ':blushhat:'
+- location: assets/jammers/bubbleswut.gif
+  name: bubbleswut
+  strings:
+  - ':bubbleswut:'
+- location: assets/jammers/catjam.gif
+  name: catjam
+  strings:
+  - ':catjam:'
+- location: assets/jammers/cavebob.png
+  name: cavebob
+  strings:
+  - ':cavebob:'
+- location: assets/jammers/clap.gif
+  name: clap
+  strings:
+  - ':clap:'
+- location: assets/jammers/cockcouncil.png
+  name: cockcouncil
+  strings:
+  - ':cockcouncil:'
+- location: assets/jammers/couchlurk.png
+  name: couchlurk
+  strings:
+  - ':couchlurk:'
+- location: assets/jammers/cozyshrek.png
+  name: cozyshrek
+  strings:
+  - ':cozyshrek:'
+- location: assets/jammers/cringe.png
+  name: cringe
+  strings:
+  - ':cringe:'
+- location: assets/jammers/dankchoke.png
+  name: dankchoke
+  strings:
+  - ':dankchoke:'
+- location: assets/jammers/didsomeonesaycock.png
+  name: didsomeonesaycock
+  strings:
+  - ':didsomeonesaycock:'
+- location: assets/jammers/didsomeonesayshrek.png
+  name: didsomeonesayshrek
+  strings:
+  - ':didsomeonesayshrek:'
+- location: assets/jammers/dogjam.gif
+  name: dogjam
+  strings:
+  - ':dogjam:'
+- location: assets/jammers/donut.gif
+  name: donut
+  strings:
+  - ':donut:'
+- location: assets/jammers/feelsgood_canadian69.png
+  name: feelsgood_canadian69
+  strings:
+  - ':feelsgood_canadian69:'
+- location: assets/jammers/feral.gif
+  name: feral
+  strings:
+  - ':feral:'
+- location: assets/jammers/giggleg.gif
+  name: giggleg
+  strings:
+  - ':giggleg:'
+- location: assets/jammers/grady.png
+  name: grady
+  strings:
+  - ':grady:'
+- location: assets/jammers/hamglorpin.gif
+  name: hamglorpin
+  strings:
+  - ':hamglorpin:'
+- location: assets/jammers/highshrek.png
+  name: highshrek
+  strings:
+  - ':highshrek:'
+- location: assets/jammers/hmph.png
+  name: hmph
+  strings:
+  - ':hmph:'
+- location: assets/jammers/homi.png
+  name: homi
+  strings:
+  - ':homi:'
+- location: assets/jammers/jail_pepe.png
+  name: jail_pepe
+  strings:
+  - ':jail_pepe:'
+- location: assets/jammers/jamiecursed2.png
+  name: jamiecursed2
+  strings:
+  - ':jamiecursed2:'
+- location: assets/jammers/jamiehypers.gif
+  name: jamiehypers
+  strings:
+  - ':jamiehypers:'
+- location: assets/jammers/jamiejoanmonkaw.png
+  name: jamiejoanmonkaw
+  strings:
+  - ':jamiejoanmonkaw:'
+- location: assets/jammers/jammersaaaa.png
+  name: jammersaaaa
+  strings:
+  - ':jammersaaaa:'
+- location: assets/jammers/jammersbinoculars.png
+  name: jammersbinoculars
+  strings:
+  - ':jammersbinoculars:'
+- location: assets/jammers/jammersblush.png
+  name: jammersblush
+  strings:
+  - ':jammersblush:'
+- location: assets/jammers/jammersbutt.png
+  name: jammersbutt
+  strings:
+  - ':jammersbutt:'
+- location: assets/jammers/jammerschaos.png
+  name: jammerschaos
+  strings:
+  - ':jammerschaos:'
+- location: assets/jammers/jammerschrist.png
+  name: jammerschrist
+  strings:
+  - ':jammerschrist:'
+- location: assets/jammers/jammersclown.png
+  name: jammersclown
+  strings:
+  - ':jammersclown:'
+- location: assets/jammers/jammerscozy.png
+  name: jammerscozy
+  strings:
+  - ':jammerscozy:'
+- location: assets/jammers/jammersdidsomeonesay.png
+  name: jammersdidsomeonesay
+  strings:
+  - ':jammersdidsomeonesay:'
+- location: assets/jammers/jammersdonut.png
+  name: jammersdonut
+  strings:
+  - ':jammersdonut:'
+- location: assets/jammers/jammersevil.png
+  name: jammersevil
+  strings:
+  - ':jammersevil:'
+- location: assets/jammers/jammersfeet.png
+  name: jammersfeet
+  strings:
+  - ':jammersfeet:'
+- location: assets/jammers/jammersgrinbow.png
+  name: jammersgrinbow
+  strings:
+  - ':jammersgrinbow:'
+- location: assets/jammers/jammersgun.png
+  name: jammersgun
+  strings:
+  - ':jammersgun:'
+- location: assets/jammers/jammersheart.png
+  name: jammersheart
+  strings:
+  - ':jammersheart:'
+- location: assets/jammers/jammershigh.png
+  name: jammershigh
+  strings:
+  - ':jammershigh:'
+- location: assets/jammers/jammershmm.png
+  name: jammershmm
+  strings:
+  - ':jammershmm:'
+- location: assets/jammers/jammershmph.png
+  name: jammershmph
+  strings:
+  - ':jammershmph:'
+- location: assets/jammers/jammershype.png
+  name: jammershype
+  strings:
+  - ':jammershype:'
+- location: assets/jammers/jammershypers.png
+  name: jammershypers
+  strings:
+  - ':jammershypers:'
+- location: assets/jammers/jammerslife.png
+  name: jammerslife
+  strings:
+  - ':jammerslife:'
+- location: assets/jammers/jammersloading.png
+  name: jammersloading
+  strings:
+  - ':jammersloading:'
+- location: assets/jammers/jammerslurk.png
+  name: jammerslurk
+  strings:
+  - ':jammerslurk:'
+- location: assets/jammers/jammersmadge.png
+  name: jammersmadge
+  strings:
+  - ':jammersmadge:'
+- location: assets/jammers/jammersmonkaw.png
+  name: jammersmonkaw
+  strings:
+  - ':jammersmonkaw:'
+- location: assets/jammers/jammerso.png
+  name: jammerso
+  strings:
+  - ':jammerso:'
+- location: assets/jammers/jammerspauseshrek.png
+  name: jammerspauseshrek
+  strings:
+  - ':jammerspauseshrek:'
+- location: assets/jammers/jammersprayge.png
+  name: jammersprayge
+  strings:
+  - ':jammersprayge:'
+- location: assets/jammers/jammersrage.png
+  name: jammersrage
+  strings:
+  - ':jammersrage:'
+- location: assets/jammers/jammersrip.png
+  name: jammersrip
+  strings:
+  - ':jammersrip:'
+- location: assets/jammers/jammersshy.png
+  name: jammersshy
+  strings:
+  - ':jammersshy:'
+- location: assets/jammers/jammersstare.png
+  name: jammersstare
+  strings:
+  - ':jammersstare:'
+- location: assets/jammers/jammerssteponme.png
+  name: jammerssteponme
+  strings:
+  - ':jammerssteponme:'
+- location: assets/jammers/jammerssword.png
+  name: jammerssword
+  strings:
+  - ':jammerssword:'
+- location: assets/jammers/jammersthicc.png
+  name: jammersthicc
+  strings:
+  - ':jammersthicc:'
+- location: assets/jammers/jammerstoot.png
+  name: jammerstoot
+  strings:
+  - ':jammerstoot:'
+- location: assets/jammers/jammerstuck.png
+  name: jammerstuck
+  strings:
+  - ':jammerstuck:'
+- location: assets/jammers/jammersu.png
+  name: jammersu
+  strings:
+  - ':jammersu:'
+- location: assets/jammers/jammerswave.png
+  name: jammerswave
+  strings:
+  - ':jammerswave:'
+- location: assets/jammers/jammerswew.png
+  name: jammerswew
+  strings:
+  - ':jammerswew:'
+- location: assets/jammers/jammerswow.png
+  name: jammerswow
+  strings:
+  - ':jammerswow:'
+- location: assets/jammers/jampog69.png
+  name: jampog69
+  strings:
+  - ':jampog69:'
+- location: assets/jammers/juicers.gif
+  name: juicers
+  strings:
+  - ':juicers:'
+- location: assets/jammers/kermiepls.gif
+  name: kermiepls
+  strings:
+  - ':kermiepls:'
+- location: assets/jammers/knifey.gif
+  name: knifey
+  strings:
+  - ':knifey:'
+- location: assets/jammers/lipbite69.png
+  name: lipbite69
+  strings:
+  - ':lipbite69:'
+- location: assets/jammers/lubbers.gif
+  name: lubbers
+  strings:
+  - ':lubbers:'
+- location: assets/jammers/modpet.gif
+  name: modpet
+  strings:
+  - ':modpet:'
+- location: assets/jammers/myaaa.gif
+  name: myaaa
+  strings:
+  - ':myaaa:'
+- location: assets/jammers/patrickgasm.png
+  name: patrickgasm
+  strings:
+  - ':patrickgasm:'
+- location: assets/jammers/pauseshrek.png
+  name: pauseshrek
+  strings:
+  - ':pauseshrek:'
+- location: assets/jammers/peepoblushshrek.png
+  name: peepoblushshrek
+  strings:
+  - ':peepoblushshrek:'
+- location: assets/jammers/peepocute.png
+  name: peepocute
+  strings:
+  - ':peepocute:'
+- location: assets/jammers/peepopanties.png
+  name: peepopanties
+  strings:
+  - ':peepopanties:'
+- location: assets/jammers/peepopat.png
+  name: peepopat
+  strings:
+  - ':peepopat:'
+- location: assets/jammers/peeporuncry.gif
+  name: peeporuncry
+  strings:
+  - ':peeporuncry:'
+- location: assets/jammers/peeposhrek.png
+  name: peeposhrek
+  strings:
+  - ':peeposhrek:'
+- location: assets/jammers/peepositonmyface.gif
+  name: peepositonmyface
+  strings:
+  - ':peepositonmyface:'
+- location: assets/jammers/pepegpanik.gif
+  name: pepegpanik
+  strings:
+  - ':pepegpanik:'
+- location: assets/jammers/peperun.gif
+  name: peperun
+  strings:
+  - ':peperun:'
+- location: assets/jammers/pepsicle.gif
+  name: pepsicle
+  strings:
+  - ':pepsicle:'
+- location: assets/jammers/powerupl.png
+  name: powerupl
+  strings:
+  - ':powerupl:'
+- location: assets/jammers/rioters.gif
+  name: rioters
+  strings:
+  - ':rioters:'
+- location: assets/jammers/robynshy.gif
+  name: robynshy
+  strings:
+  - ':robynshy:'
+- location: assets/jammers/robynstarechamp.png
+  name: robynstarechamp
+  strings:
+  - ':robynstarechamp:'
+- location: assets/jammers/shrekcozy.png
+  name: shrekcozy
+  strings:
+  - ':shrekcozy:'
+- location: assets/jammers/shrekdonut.gif
+  name: shrekdonut
+  strings:
+  - ':shrekdonut:'
+- location: assets/jammers/shrekgladge.png
+  name: shrekgladge
+  strings:
+  - ':shrekgladge:'
+- location: assets/jammers/shrekgrin.png
+  name: shrekgrin
+  strings:
+  - ':shrekgrin:'
+- location: assets/jammers/shrekhypers.gif
+  name: shrekhypers
+  strings:
+  - ':shrekhypers:'
+- location: assets/jammers/shreklife.png
+  name: shreklife
+  strings:
+  - ':shreklife:'
+- location: assets/jammers/shreklove.png
+  name: shreklove
+  strings:
+  - ':shreklove:'
+- location: assets/jammers/shrekstare.png
+  name: shrekstare
+  strings:
+  - ':shrekstare:'
+- location: assets/jammers/shrektub.gif
+  name: shrektub
+  strings:
+  - ':shrektub:'
+- location: assets/jammers/shreku.png
+  name: shreku
+  strings:
+  - ':shreku:'
+- location: assets/jammers/shrekwew.png
+  name: shrekwew
+  strings:
+  - ':shrekwew:'
+- location: assets/jammers/shyshrek.gif
+  name: shyshrek
+  strings:
+  - ':shyshrek:'
+- location: assets/jammers/smirk.png
+  name: smirk
+  strings:
+  - ':smirk:'
+- location: assets/jammers/spongpls.gif
+  name: spongpls
+  strings:
+  - ':spongpls:'
+- location: assets/jammers/starechamp.png
+  name: starechamp
+  strings:
+  - ':starechamp:'
+- location: assets/jammers/starege.gif
+  name: starege
+  strings:
+  - ':starege:'
+- location: assets/jammers/steponme.png
+  name: steponme
+  strings:
+  - ':steponme:'
+- location: assets/jammers/stepshrek.png
+  name: stepshrek
+  strings:
+  - ':stepshrek:'
+- location: assets/jammers/suskaygeziggi.png
+  name: suskaygeziggi
+  strings:
+  - ':suskaygeziggi:'
+- location: assets/jammers/tchicken.gif
+  name: tchicken
+  strings:
+  - ':tchicken:'
+- location: assets/jammers/toot.png
+  name: toot
+  strings:
+  - ':toot:'
+- location: assets/jammers/unicornyo.gif
+  name: unicornyo
+  strings:
+  - ':unicornyo:'
+- location: assets/jammers/weirdchamp.gif
+  name: weirdchamp
+  strings:
+  - ':weirdchamp:'
+- location: assets/jammers/wifecouncil.png
+  name: wifecouncil
+  strings:
+  - ':wifecouncil:'
+- location: assets/jammers/wowlegs.png
+  name: wowlegs
+  strings:
+  - ':wowlegs:'
+- location: assets/jammers/wtff.png
+  name: wtff
+  strings:
+  - ':wtff:'
+- location: assets/jammers/yay69.png
+  name: yay69
+  strings:
+  - ':yay69:'
+- location: assets/jammers/ziggiwew.png
+  name: ziggiwew
+  strings:
+  - ':ziggiwew:'
